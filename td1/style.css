@@ -1,0 +1,14 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background: white;
+}
+
+h1{
+	color: red;
+}
+
+p span{
+	color: green;
+	font-weight: bold;
+	font-style: underline;
+}

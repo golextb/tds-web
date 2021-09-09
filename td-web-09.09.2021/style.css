@@ -1,0 +1,48 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background: grey;
+}
+
+.encadrer {
+	width: 1300px;
+	height: 800px;
+	margin: 75px 300px 20px;
+	border: 3px solid #A0A0A0;
+	text-align: center;
+	background: white;
+}
+
+.bloc1 {
+	width:800px;
+	height: 150px;
+	margin-left: 30px;
+	text-align: left;
+}
+
+.bloc2 {
+	width:680px;
+	height: 150px;
+	margin-left: 30px;
+	text-align: left;
+}
+
+.bloc3 {
+	width:600;
+	height: 150px;
+}
+
+.bloc4 {
+	width: 1300px;
+	margin-left: 30px;
+	text-align:left;
+}
+
+h1{
+	color: black;
+}
+
+p span{
+	color: green;
+	font-weight: bold;
+	font-style: underline;
+}
